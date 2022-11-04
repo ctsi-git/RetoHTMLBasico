@@ -1,0 +1,36 @@
+body {    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+}
+
+img.resize {
+    width: 400px;
+    height: 200px;
+}
+
+
+table{
+    border-collapse: collapse;    
+}
+
+thead{
+    background-color: gray;
+    color: white;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+ 
+th,
+td {
+    padding: 10px;
+    margin: 10px;
+}
+
+td.footRow{
+  background-color: lightgray;  
+
+}
